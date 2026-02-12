@@ -39,4 +39,8 @@ body{
    text-decoration:none;
 }
 
+.menu ul li a:hover {
+  backgorund-color:#4b88bb;
+  display:black;
+}
 
